@@ -215,7 +215,7 @@ tool completely — there is no uninstaller and no registry entry.
 | **License** | Shared under the MIT License |
 | **Instructions** | the button in the Quick Start section |
 
-*Updated 2026-10-26 · Shared under the MIT License*
+*Updated 2026-10-27 · Shared under the MIT License*
 
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*
